@@ -1,1 +1,1 @@
-# todo-app
+# e-commerce app
